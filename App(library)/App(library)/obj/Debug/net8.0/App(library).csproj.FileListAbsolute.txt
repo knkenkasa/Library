@@ -1,0 +1,14 @@
+D:\Code (study)\Library-master\App(library)\App(library)\obj\Debug\net8.0\App(library).GeneratedMSBuildEditorConfig.editorconfig
+D:\Code (study)\Library-master\App(library)\App(library)\obj\Debug\net8.0\App(library).AssemblyInfoInputs.cache
+D:\Code (study)\Library-master\App(library)\App(library)\obj\Debug\net8.0\App(library).AssemblyInfo.cs
+D:\Code (study)\Library-master\App(library)\App(library)\obj\Debug\net8.0\App(library).csproj.CoreCompileInputs.cache
+D:\Code (study)\Library-master\App(library)\App(library)\bin\Debug\net8.0\App(library).exe
+D:\Code (study)\Library-master\App(library)\App(library)\bin\Debug\net8.0\App(library).deps.json
+D:\Code (study)\Library-master\App(library)\App(library)\bin\Debug\net8.0\App(library).runtimeconfig.json
+D:\Code (study)\Library-master\App(library)\App(library)\bin\Debug\net8.0\App(library).dll
+D:\Code (study)\Library-master\App(library)\App(library)\bin\Debug\net8.0\App(library).pdb
+D:\Code (study)\Library-master\App(library)\App(library)\obj\Debug\net8.0\App(library).dll
+D:\Code (study)\Library-master\App(library)\App(library)\obj\Debug\net8.0\refint\App(library).dll
+D:\Code (study)\Library-master\App(library)\App(library)\obj\Debug\net8.0\App(library).pdb
+D:\Code (study)\Library-master\App(library)\App(library)\obj\Debug\net8.0\App(library).genruntimeconfig.cache
+D:\Code (study)\Library-master\App(library)\App(library)\obj\Debug\net8.0\ref\App(library).dll
